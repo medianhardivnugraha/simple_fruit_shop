@@ -243,3 +243,5 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 ::: warning
 *here be dragons*
 :::
+
+![alt text](Giant-panda-c2c51b8.jpg)
